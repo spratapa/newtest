@@ -1,0 +1,1 @@
+The purpose of this blog post is to explain how to build a chatbot using the LangGraph framework. Before diving into the implementation details, let’s first understand what LangGraph is and how it differs from LangChain.
